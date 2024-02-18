@@ -1,0 +1,5 @@
+The DevOps for System Administration course is a comprehensive program designed to equip learners with the necessary skills to excel in the field of DevOps and System Administration. This course takes you from being an absolute beginner in Linux to becoming a confident and effective Linux System Administrator².
+
+The course covers all important Linux commands, the Linux filesystem, file permissions, process management, user account management, software management, and networking in Linux². It also includes Bash scripting, Netfilter/Iptables Firewall, and Linux Security². 
+
+One of the key aspects of this course is its practical approach. It ensures that learners retain what they're learning by providing real-world scenarios, quizzes, and challenges at the end of each section². This hands-on experience includes configuring a Linux Server from scratch in the cloud².

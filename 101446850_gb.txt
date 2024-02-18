@@ -3,3 +3,8 @@ This is very first line for the George brown college
 
 
 George Brown College, located in downtown Toronto, Canada, is a fully accredited public institution of applied arts and technology. Since its establishment in 1967, the college has been offering a blend of theoretical and practical learning. It provides over 200 programs, catering to a diverse range of interests. These programs include apprenticeships, certificates, diplomas, advanced diplomas, degrees, and postgraduate programs. The college also offers part-time and online options for flexibility.
+
+
+The programs are divided into several academic centres, including Arts, Design & Information Technology, Business, Community Services & Early Childhood, Construction & Engineering Technologies, Health Sciences, Hospitality & Culinary Arts, and Preparatory & Liberal Studies. Each program is assigned a code, with the letter representing the academic centre and the number representing the credential upon graduation.
+
+Prospective students can use the program finder and comparison tools to find suitable programs. Each program has a status indicating its availability for application. For more information, visit the official George Brown College website.
